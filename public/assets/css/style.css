@@ -652,6 +652,8 @@ section {
 }
 
 
+
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -726,7 +728,7 @@ section {
 }
 
 .services .service-box.orange:hover {
-  background: #9e8b74;
+  background: #f68c09;
 }
 
 .services .service-box.green {
@@ -760,7 +762,7 @@ section {
 }
 
 .services .service-box.red:hover {
-  background: #a87173;
+  background: #e9222c;
 }
 
 .services .service-box.purple {
@@ -790,11 +792,11 @@ section {
 }
 
 .services .service-box.pink .read-more {
-  color: #438673;
+  color: #f51f9c;
 }
 
 .services .service-box.pink:hover {
-  background: #6a71d3;
+  background: #f51f9c;
 }
 
 .services .service-box:hover h3,
